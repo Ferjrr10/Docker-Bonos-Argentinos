@@ -1,0 +1,6 @@
+1- Leen unos archivos exceles con Python y los convierten en unos DataFrame para limpiar el dataset y almacenar los valores que nos interesan en la base de Datos de PostgreSQL.
+2- Una vez almacenado los datos desde grafana se ejecutan los queries de nuestros interés para graficarlos en Grafana.
+3- En PgAdmin 4 solo lo utilizamos como una interfase de PostgreSQL.
+4- Al final quedan las cotizaciones històricas desde la reestructuración de deuda del 2020. Un canje que engloba un proceso dedesendeudamiento por su bajo pago de cupones.
+
+https://www.youtube.com/watch?v=OhaChS1LP_g&t=23s
